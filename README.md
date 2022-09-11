@@ -1,5 +1,5 @@
 # Configuracoes-mobile-
-Configurações para dispositivo mobile feito em html, css e javascript.
+Menu de configurações para dispositivo mobile feito em html, css e javascript.
 
 ## Tecnologias
 <ul>
